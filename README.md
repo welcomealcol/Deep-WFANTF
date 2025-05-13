@@ -2,7 +2,9 @@
 Download the package from Baidu Cloud and unzip it:
 Link：https://pan.baidu.com/s/1-FISC8f2qd7EaaY_1TuhiQ?pwd=nx1t
 Code：nx1t
+
 Before running the program, please make sure the following software is installed(requirement.txt):
+
 1.	CUDA Compilation Tools: Release 11.1, V11.1.74
 Build: cuda_11.1.relgpu_drvr455TC455_06.29069683_0
 2.	JDK: 1.8.0_202
