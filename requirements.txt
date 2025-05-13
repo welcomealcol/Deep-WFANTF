@@ -1,0 +1,12 @@
+tensorflow==2.4.3
+keras==2.4.3
+pandas==1.2.1
+matplotlib==3.5.2
+nibabel==3.2.1
+Pillow==8.4.0
+SimpleITK==2.1.1
+scipy==1.7.1
+numpy==1.19.5
+scikit-learn==1.0.1
+hyperopt==0.2.5
+scikit-multilearn
