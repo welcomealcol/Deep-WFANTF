@@ -1,7 +1,7 @@
 # Deep-WFANTF
 Download the package from Baidu Cloud and unzip it:
-Link：https://pan.baidu.com/s/1-FISC8f2qd7EaaY_1TuhiQ?pwd=nx1t
-Code：nx1t
+Link：https://pan.baidu.com/s/1-FISC8f2qd7EaaY_1TuhiQ?pwd=
+
 
 Before running the program, please make sure the following software is installed(requirement.txt):
 
