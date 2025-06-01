@@ -64,6 +64,8 @@ Note: you can run this test script for ABIDE (BNI: in “dist\processed_Deep_WSA
 
 Note: After processing a dataset, ensure to move/rename the processed dataset data (including processed, rawdata, and diagnostic files) to another directory.
 
+Note：Additionally, we have uploaded the data of extracted factors (in the processed directory) to facilitate validating the reliability of the classifier.
+
 Have fun and Enjoy it! Any issues please could you kindly contact me at hengjin.ke@whu.edu.cn
 
 Please also refer to the readme.docx.
